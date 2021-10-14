@@ -16,6 +16,9 @@
 
 **Note**
 - Only calculate item marked "Delivered".
-- There maybe repeating item on 2-3 last item. Feel free to contribute if you able to fix it.
 
+**Known Issues**
+- Repeating item
+- Slow to calculate
 
+<b>Feel free to contribute if you able to fix it.</b>
