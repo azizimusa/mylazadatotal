@@ -2,7 +2,7 @@
 
 **How to Run This Script**
 
-- Go to <b>azizi2u.com/code</b>
+- Go to <b>https://azizi2u.com/code</b>
 - Drag button "MyLazadaTotal" to bookmark bar.
 - Go to <b>https://my.lazada.com.my/customer/order/index/</b>
 - Press <b>MyLazadaTotal</b> bookmark.
